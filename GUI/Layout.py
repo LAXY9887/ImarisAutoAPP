@@ -1,3 +1,5 @@
+# This is the main script of GUI
+
 #%%
 import tkinter as tk
 from GUI_Coordination import Point
