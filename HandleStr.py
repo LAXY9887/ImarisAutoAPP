@@ -84,7 +84,7 @@ STR_SPLIT_OUTDIR = "OutputDIR_spliting"
 STR_COL_OUT_DIR = "OutputDIR_Clocal"
 STR_SEC_COL = "Clocal_sec_colocalize"
 STR_SEC_COL_OUT_DIR = "OutputDIR_Clocal_sec_colocalize"
-COLOCALIZE_RATIO = "0.5"
+COLOCALIZE_RATIO = "0.4"
 
 """ spots filter """
 INTENSITY_SUM = 'Intensity_sum'

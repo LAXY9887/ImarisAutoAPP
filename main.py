@@ -1,5 +1,5 @@
 from Pipeline import Colocalize_Pipeline
-from UserVariables_Yun_nocol import *
+from UserVariables_KaLok import *
 
 """ Generate Pipeline for colocalize """
 Colocalize_manager = Colocalize_Pipeline(
